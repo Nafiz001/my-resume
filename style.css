@@ -22,7 +22,6 @@ h1 {
     margin-bottom: 0.2em;
     margin-top: 0.5em;
 }
-}
 
 h2 {
     font-size: 1.2em;
@@ -31,7 +30,6 @@ h2 {
     margin-bottom: 0.5em;
     margin-top: 1.5em;
     letter-spacing: 0.05em;
-}
 }
 
 h3 {
@@ -103,7 +101,8 @@ ul {
 
 p {
     margin: 0.3em 0 0.7em 0;
+p {
+    margin: 0.3em 0 0.7em 0;
     line-height: 1.6;
 }
 }
-
